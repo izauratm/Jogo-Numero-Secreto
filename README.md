@@ -50,6 +50,6 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir um pull request 
 Contributions are welcome! Feel free to open a pull request or report issues.  
 
 ### Links Úteis e Referências: 
-- [ONE](https://cursos.alura.com.br/)
+- [ONE-Alura](https://cursos.alura.com.br/)
 - [ResponsiveVoice](https://responsivevoice.org/)
  
