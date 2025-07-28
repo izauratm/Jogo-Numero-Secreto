@@ -51,5 +51,5 @@ Contributions are welcome! Feel free to open a pull request or report issues.
 
 ### Links Úteis e Referências: 
 - [ONE](https://cursos.alura.com.br/)
-- [ResponsiveVoice](https://responsivevoice.org/])
+- [ResponsiveVoice](https://responsivevoice.org/)
  
