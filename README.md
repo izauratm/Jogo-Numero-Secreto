@@ -32,11 +32,11 @@ Create a game where the user tries to guess the secret number, along with a coun
  * Publishing the project 
 
 
-## ![tecnologia](https://github.com/user-attachments/assets/b8ed55c1-a49c-4b8f-aca5-90000217d1e6) Tecnologias / Technologies
-- Visual Studio Code
-- HTML
-- CSS
-- JavaScript
+## ![tecnologia](https://github.com/user-attachments/assets/b8ed55c1-a49c-4b8f-aca5-90000217d1e6) Tecnologias e Ferramentas/ Technologies and Tools
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Visual Studio Code](https://img.shields.io/badge/Editor-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   
 ## ![estude](https://github.com/user-attachments/assets/f2f58f4e-c422-49af-8d03-67dfa175a54a) Desenvolvedor
 * Izaura TM - responsável pelo projeto.
